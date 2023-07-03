@@ -15,14 +15,14 @@ turma2022/2023
 
 ## 🔨 Funcionalidades do projeto
 
-- `Login com validação de senha`: Nosso sistema se inicia com uma página de login que após colocar a senha e número da conta cadastrada irá ser redirecionada para o Menu.
+- `Login com validação de senha`: Nosso sistema se inicia com uma página de login que após colocar a senha e número da conta cadastrada irá ser redirecionada para o Menu, as credenciais são número da conta:20222018036 senha:heloisa.
 -  `Menu`: No menu se encontra reunida todas as funcionalidades do nosso sistema.
 - `Saldo`:A função saldo é determinado um certo valor para que seja realizado as outras funções do nosso sistema e que garante o usuário visualizar o saldo.
 -  `Saque`: A função saque possibilita o usuário de retirar um certo valor do seu saldo desde que não seja retirado uma quantia maior do que a presente.
-- `Depósito`: A função depósito permite o usuário acrescentar um valor,desde que esse valor não seja negativo.
-- `Transferência`:A função transferência permite que o usuário logado transfira um valor positivo para outra conta no caso do nosso sistema para a conta determinada,caso ele coloque outra conta será apresentado um erro.
+- `Depósito`: A função depósito permite o usuário acrescentar um valor desde que esse valor não seja negativo.
+- `Transferência`:A função transferência permite que o usuário logado transfira um valor positivo para outra conta, no caso do nosso sistema para a conta determinada número da conta: 20222017843 caso ele coloque outra conta será apresentado um erro.
 - `Relatório`: A função relatório será apresentado ao usuário o nome e o saldo definido dos participantes do projeto.
-- `Desconectar`:A função desconectar evita que o sistema seja finalizado sozinho,pois isso só ira acontecer caso o usuário clicas nessa função e confirmar que realmente quer se desconectar
+- `Desconectar`:A função desconectar evita que o sistema seja finalizado sozinho,pois isso só vai acontecer caso o usuário clique nessa função e confirme que realmente quer se desconectar
 <br/>
 
 ## ✔️ Técnicas e tecnologias utilizadas
